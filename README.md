@@ -1,5 +1,8 @@
 # NASA Mission Control Project
 
+This project uses data from [NASA](https://www.nasa.gov/) as well as the [SpaceX REST API](https://github.com/r-spacex/SpaceX-API) to shedule space missions to habitable Kepler [Exoplanets](https://exoplanetarchive.ipac.caltech.edu/docs/data.html).
+Deployed using Docker on AWS Amazon EC2 instance
+
 # Getting Started
 
 1. Ensure you have Node.js installed.
@@ -15,8 +18,8 @@
 # Docker
 
 1. Install the latest versiob of Docker.
-2. Run `docker build -t nasa-project.`
-3. Run `docker run -it -p 8000:8000 nasa-project`.
+2. Run `docker build -t nasa-project`
+3. Run `docker run -it -p 8000:8000 nasa-project`
 
 # Running Tests
 
