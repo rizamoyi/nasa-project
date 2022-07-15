@@ -10,7 +10,7 @@
 # Running the Project
 
 1. In the terminal run: `npm run deploy`
-2. View the Mission Control Project frontend at [localhost:8000] and schedule a launch!
+2. View the Mission Control Project frontend at [localhost:8000](localhost:8000) and schedule a launch!
 
 # Docker
 
