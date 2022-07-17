@@ -3,11 +3,11 @@
 This project uses data from [NASA](https://www.nasa.gov/) as well as the [SpaceX REST API](https://github.com/r-spacex/SpaceX-API) to shedule space missions to habitable Kepler [Exoplanets](https://exoplanetarchive.ipac.caltech.edu/docs/data.html).
 Deployed using Docker on AWS Amazon EC2 instance
 
-## Launches
+### Launch
 ![Launch](./client/public/img/launch.png)
-## Upcoming Launches
+### Upcoming Launches
 ![Upcoming](./client/public/img/upcoming.png)
-## History
+### History of Launches
 ![History](./client/public/img/history.png)
 
 
